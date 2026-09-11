@@ -1,2 +1,1 @@
-data before cloning and changing
-this is second line
+Hello this is nothing
